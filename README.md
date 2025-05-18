@@ -59,12 +59,13 @@ I'm passionate about advancing quality engineering practices and always open to 
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisekbarik/)
-[![Email](https://img.shields.io/badge/-Email-D14836?flate&logo=gmail&logoColor=white)](mailto:abhisekbarik.sdet@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=fflat&logo=github)](https://github.com/abhisekbarik18)
+[![LinkedIn](https://img.shields.io/badge/-linkedin.com/in/abhisekbarik/-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisekbarik/)
+[![Email](https://img.shields.io/badge/-abhisekbarik.sdet@gmail.com-D14836?flate&logo=gmail&logoColor=white)](mailto:abhisekbarik.sdet@gmail.com)
+[![GitHub](https://img.shields.io/badge/-github.com/abhisekbarik18-181717?style=fflat&logo=github)](https://github.com/abhisekbarik18)
 </div>
 
-### 💼 Open to:
+## 💼 Open to:
+
 - 🤝 Collaboration on open-source testing frameworks.
 - 💻 Quality engineering opportunities.
 - 🔍 Consulting on test automation strategies.
