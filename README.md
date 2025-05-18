@@ -1,14 +1,12 @@
-# Abhisek Barik | Software Quality Engineer | Software Development Engineer in Test(SDET)
+# Hi, I'm Abhisek Barik! 👋 | Software Quality Engineer | Software Development Engineer in Test(SDET)
 
-> **Elevating Software Quality Through Strategic Testing and Automation**
+> **Crafting reliable software experiences through intelligent automation & strategic quality engineering.**
 
-## About Me
+## 📖 About Me
 
 - Software Quality Engineer with over 3.5 years of expertise in delivering high-quality products through rigorous testing and automation.
 - Specializes in ensuring software quality through robust test automation frameworks, API validation, and in-depth exploratory testing. Proficient in developing and maintaining scalable automation frameworks using Selenium WebDriver with Java and BDD Cucumber, achieving significant reductions in test execution time and defect leakage.
-- Expertise includes Functional, Regression, End-to-End, and API Testing (using Rest Assured, Postman), along with solid hands-on experience in TestNG, JUnit, and data-driven test execution. 
 - Skilled in Agile/Scrum methodologies, collaborating closely with cross-functional teams for in-sprint automation and continuous quality improvement.
-- Well-versed in Defect Management (Jira, Confluence), version control with Git, and proactively identifying production issues using Splunk. Strong exposure to Test Data Management, mentoring team members, and process enhancement initiatives.
 - Adept at ensuring seamless software releases through comprehensive test strategy development and end-to-end quality assurance practices
 
 
@@ -38,24 +36,43 @@
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk)
 ![Pega Testing](https://img.shields.io/badge/-PegaTesting-007ACC?style=flat)
-![Confluence](https://img.shields.io/badge/-Playwright-172B4D?style=flat&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-172B4D?style=flat&logo=playwright&logoColor=white)
 
-## 🏆 Key Achievements
+## 🏆 Career Highlights
 
-- **Increased Test Coverage by 80%** by implementing comprehensive automated regression test suites, resulting in earlier defect detection and reduced production issues.
-- **Reduced Manual Testing Time by 40%** through development of reusable test frameworks and intelligent test automation, allowing the team to focus on exploratory testing.
-- **Decreased Defect Leakage by 30%** by introducing structured exploratory testing sessions and improved test strategies based on risk assessment.
-- **Accelerated Release Cycles by 30%** through integration of automated tests while maintaining rigorous quality standards.
-- **Improved Application Stability** by implementing thorough API and integration testing methodologies.
-- **Reduced Regression Testing Time** by developing an optimized test suite covering critical user journeys.
-- **Streamlined Defect Management Process** resulting in 25% faster bug resolution and improved developer-QA communication.
-- **Mentored 15+ staff QA Engineers** who successfully advanced in their careers.
-- **Optimized Test Data Management** by implementing data-driven testing approaches, reducing test maintenance effort by 40%.
-- **Established Comprehensive Test Documentation** that improved knowledge transfer and reduced onboarding time for new team members.
+- **Increased test coverage by 80%** by implementing comprehensive automated regression test suites, resulting in earlier defect detection and reduced production issues.
+- **Reduced manual testing time by 40%** through development of reusable test frameworks and intelligent test automation, allowing the team to focus on exploratory testing.
+- **Decreased defect leakage by 30%** by introducing structured exploratory testing sessions and improved test strategies based on risk assessment.
+- **Accelerated release cycles by 30%** through integration of automated tests while maintaining rigorous quality standards.
+- **Improved application stability** by implementing thorough API and integration testing methodologies.
+- **Reduced regression testing time** by developing an optimized test suite covering critical user journeys.
+- **Streamlined defect nanagement process** resulting in 25% faster bug resolution and improved developer-QA communication.
+- **Mentored 15+ staff QA engineers** who successfully advanced in their careers.
+- **Optimized test data management** by implementing data-driven testing approaches, reducing test maintenance effort by 40%.
+- **Established comprehensive test documentation** that improved knowledge transfer and reduced onboarding time for new team members.
+
+## 🧪 Testing Methodologies & Frameworks  
+
+- **Manual Testing:** Functional, Regression, End-to-End, Exploratory, Smoke, Sanity.  
+- **Automation:** Selenium WebDriver, BDD-Cucumber, API Testing (Rest Assured, Postman), TestNG.
+- **Framework Design:** Behaviour Driven Development & Hybrid Automation Frameworks.  
+- **Project Management Tool:** Jira.
+- **Methodologies:** Agile, Waterfall.
+- **Source/Version Control Systems:** Git, GitHub, Gitlab.
+- **Continuous Testing in Agile Environments**  
+
+## 🛡️ My approach to Quality Assurance
+
+I believe in **preventing defects over detecting them**. My QA strategy integrates seamlessly into the development process, ensuring:
+- **Early involvement in requirements** reviews and sprint planning.  
+- **Comprehensive test planning** aligned with business objectives.  
+- Balanced focus on **automated regression suites** and **exploratory testing**.
+- Leveraging **data-driven and automation-first testing*** to enhance reliability and coverage.
+- **Continuous improvement** through retrospectives, metrics, and feedback.
 
 ## 📫 Let's Connect!
 
-I'm passionate about advancing quality engineering practices and always open to discussing software quality, test automation strategies, or potential collaboration opportunities.
+I'm passionate about advancing quality engineering practices and always open to discussing software quality, test automation strategies, or potential collaboration opportunities. Feel free to connect or reach out for collaborations, project discussions, or professional networking:
 
 <div align="center">
   
@@ -69,7 +86,7 @@ I'm passionate about advancing quality engineering practices and always open to 
 - 🤝 Collaboration on open-source testing frameworks.
 - 💻 Quality engineering opportunities.
 - 🔍 Consulting on test automation strategies.
-- 👥 Networking with fellow QA professionals.
+- 👥 Networking with QA professionals.
 ---
 
 
