@@ -47,7 +47,7 @@
 - **Improved application stability** by implementing thorough API and integration testing methodologies.
 - **Reduced regression testing time** by developing an optimized test suite covering critical user journeys.
 - **Streamlined defect nanagement process** resulting in 25% faster bug resolution and improved developer-QA communication.
-- **Mentored 15+ staff QA engineers** who successfully advanced in their careers.
+- **Mentored 15+ staff QA engineers** increasing team efficiency by 10%.
 - **Optimized test data management** by implementing data-driven testing approaches, reducing test maintenance effort by 40%.
 - **Established comprehensive test documentation** that improved knowledge transfer and reduced onboarding time for new team members.
 
