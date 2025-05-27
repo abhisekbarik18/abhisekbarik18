@@ -1,4 +1,4 @@
-# Hi, I'm Abhisek Barik! 👋 | Software Quality Engineer | Software Development Engineer in Test(SDET)
+# Hi, I'm Abhisek Barik! 👋 | And I'm a Software Quality Engineer.
 
 > **Crafting reliable software experiences through intelligent automation & strategic quality engineering.**
 
