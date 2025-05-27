@@ -1,4 +1,4 @@
-# Hi, I'm Abhisek Barik! 👋 | And I'm a Software Quality Engineer.
+# Hi, I'm Abhisek Barik 👋 | I'm a Software Quality Engineer 💻.
 
 > **Crafting reliable software experiences through intelligent automation & strategic quality engineering.**
 
@@ -81,6 +81,7 @@ I'm passionate about advancing quality engineering practices and always open to 
 [![GitHub](https://img.shields.io/badge/-github.com/abhisekbarik18-181717?style=fflat&logo=github)](https://github.com/abhisekbarik18)
 </div>
 
+
 ## 💼 Open to:
 
 - 🤝 Collaboration on open-source testing frameworks.
@@ -89,6 +90,15 @@ I'm passionate about advancing quality engineering practices and always open to 
 - 👥 Networking with QA professionals.
 ---
 
+## 📝 Resume:
+Thank you for showing interest in my profile. You can download/view my updated resume from the link below:
+
+### 🔗 [👉 Click here to view/download my Resume](https://drive.google.com/drive/folders/14JBcWtylHokHKKf7fbz-4qxpUcrF23_1?usp=sharing)
+
+> **Note:** If you face any issues accessing the link, feel free to reach out to me via email.
+
+
 
 ⭐ **Looking for a quality-focused engineer for your team?** I'm currently exploring new opportunities where I can leverage my expertise to enhance software quality and testing processes. Let's discuss how I can contribute to your organization's success!
+
 
