@@ -4,7 +4,7 @@
 
 ## 📖 About Me
 
-- Software Quality Engineer with over 3.5 years of expertise in delivering high-quality products through rigorous testing and automation.
+- Software Quality Engineer with over 4 years+ of expertise in delivering high-quality products through rigorous testing and automation.
 - Specializes in ensuring software quality through robust test automation frameworks, API validation, and in-depth exploratory testing. Proficient in developing and maintaining scalable automation frameworks using Selenium WebDriver with Java and BDD Cucumber, achieving significant reductions in test execution time and defect leakage.
 - Skilled in Agile/Scrum methodologies, collaborating closely with cross-functional teams for in-sprint automation and continuous quality improvement.
 - Adept at ensuring seamless software releases through comprehensive test strategy development and end-to-end quality assurance practices
